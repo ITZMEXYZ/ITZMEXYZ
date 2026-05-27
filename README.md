@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ZY</h1>
+<h1 align="center">ZY E. BANEZ</h1>
 <h3 align="center">Student Developer • Future Network Engineer • Tech Enthusiast</h3>
 
 <p align="center">
